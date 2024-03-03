@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 
+//kata 6kyu Array.diff https://www.codewars.com/kata/523f5d21c841566fde000009
+
 public class Kata {
 
   public static int[] arrayDiff(int[] a, int[] b) {

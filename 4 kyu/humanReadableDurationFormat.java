@@ -1,5 +1,8 @@
 public class TimeFormatter {
     
+	//kata 4kyu Human readable duration format https://www.codewars.com/kata/52742f58faf5485cae000b9a
+	
+	
     public static String formatDuration(int seconds) {
         // your code goes here
       if (seconds == 0) return "now";

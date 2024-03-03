@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 
+//kata 4kyu The Greatest Warrior https://www.codewars.com/kata/5941c545f5c394fef900000c/java
+
+
 class Warrior {
     // Your code here!
     private static int level;
